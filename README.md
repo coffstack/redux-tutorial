@@ -6,7 +6,7 @@
 <br>
 </div>
 
-<!-- Este projeto foi construído para o vídeo [Redux do CONCEITO a PRÁTICA! Migrando Redux Antigo para Redux Toolkit](https://www.youtube.com/coffstack) em nosso canal no YouTube. -->
+Este projeto foi construído para o vídeo [Redux do CONCEITO a PRÁTICA! Migrando Redux Antigo para Redux Toolkit (Tutorial)](https://youtu.be/HGMd3dbB-lM) em nosso canal no YouTube.
 
 ### O que você aprenderá nesse tutorial?
 
